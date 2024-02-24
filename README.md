@@ -20,3 +20,9 @@ Type of service: The services that each ATM can do (Withdrawal - deposit - curre
 
 1. Cluster the ATMs to help the bank for finding the optimal route for filling the ATMs to save time.
 2. Helping customers locate the nearest ATM easily depends on the type of service (Withdrawal - deposit - currency exchange).
+
+# samples outputs
+
+![](./images/cluster_cairo.png)
+
+![](./images/nasr_city_4.png)
